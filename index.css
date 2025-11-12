@@ -29,7 +29,7 @@ html{
     
     
 }
-.body2{
+.bottomSpace{
     
     width: 100px;height: 50px;
 
@@ -50,7 +50,7 @@ html{
     
     position:absolute;
     margin-left: 55px;
-    margin-top: 17px;
+    margin-top: 30px;
     border-radius: 20%;
     overflow:hidden;
    padding: 0px;
@@ -79,7 +79,7 @@ html{
 .namecard p{
     letter-spacing: 2px;
     padding-top: 4px;
-    margin-top: 0px;
+    margin-top: 10px;
     font-weight: 0px;
     font-size: 16px;
     color:rgba(26, 31, 48, 0.7) ;
@@ -95,13 +95,14 @@ h3 a{
     letter-spacing:0.5px;
     text-align: center;
    position: relative;
-   padding-top: 0px;
+   padding-top: 5px;
    color:#77654a;
 }
+
 .icon{
     width: 30px; height: 30px;
     padding: 6px;
-    padding-bottom: 2px;
+    padding-bottom: 4px;
 }
 a{
     text-decoration: none;
@@ -110,6 +111,11 @@ a{
     
     color:#77654a;
 }
+
+.spaceBetweenIG{
+    height: 4px;
+}
+
 .email{
     
     color:#77654a;
